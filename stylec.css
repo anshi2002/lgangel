@@ -1,0 +1,29 @@
+.navbar.navbar-expand-sm {
+    background-color: #EC6E461A;
+  }
+  .nav-link{
+    color: #000000;
+}
+.fas.fa-bars{
+    color: #3c0707;
+    font-size: 28px;
+}
+.btn.btn-success.free{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+border: none;
+
+color: #FFFFFF;
+background-color: #EC6E46;!important
+
+}
+.big-banner{
+    background-image: url('image/girl.png');
+}
